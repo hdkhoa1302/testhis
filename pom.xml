@@ -19,7 +19,7 @@
 		<spring.version>5.1.5.RELEASE</spring.version>
 		<spring.security.version>5.1.5.RELEASE</spring.security.version>
 		<mysqlconnector.version>8.0.15</mysqlconnector.version>
-		<jackson.verson>2.9.9</jackson.verson>
+		<jackson.verson>2.11.1</jackson.verson>
 	</properties>
     
 	<dependencies>
